@@ -10,8 +10,11 @@ git push origin main
 # How to run
 
 conda create -n visa python=3.8 -y
-conda activate visa
+
+conda activate chest
+
 pip install -r requirements.txt
+
 python app.py
 
 
