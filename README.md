@@ -39,11 +39,17 @@ python app.py
 
 
 import dagshub
-dagshub.init(repo_owner='waelr1985', repo_name='mlflow-experiment-demo', mlflow=True)
+
+dagshub.init(repo_owner='waelr1985', 
+
+repo_name='mlflow-experiment-demo', mlflow=True)
 
 import mlflow
+
 with mlflow.start_run():
+
   mlflow.log_param('parameter name', 'value')
+  
   mlflow.log_metric('metric name', 1)
 
 # Mlflow dagshub connection uri
