@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/df165af8a9cb44a6b1dec6f37e2948ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df165af8a9cb44a6b1dec6f37e2948ae
+run_name: loud-shark-489
+run_uuid: df165af8a9cb44a6b1dec6f37e2948ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726254778693
+status: 1
+tags: []
+user_id: waelr

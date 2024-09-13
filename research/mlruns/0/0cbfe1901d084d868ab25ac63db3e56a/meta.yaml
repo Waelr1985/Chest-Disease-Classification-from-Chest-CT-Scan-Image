@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/0cbfe1901d084d868ab25ac63db3e56a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cbfe1901d084d868ab25ac63db3e56a
+run_name: kindly-mouse-691
+run_uuid: 0cbfe1901d084d868ab25ac63db3e56a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726245112846
+status: 1
+tags: []
+user_id: waelr

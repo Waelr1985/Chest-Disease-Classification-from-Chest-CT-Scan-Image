@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/384d3ee251d847fc87242734f1013a9f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 384d3ee251d847fc87242734f1013a9f
+run_name: bittersweet-flea-375
+run_uuid: 384d3ee251d847fc87242734f1013a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726252849327
+status: 1
+tags: []
+user_id: waelr

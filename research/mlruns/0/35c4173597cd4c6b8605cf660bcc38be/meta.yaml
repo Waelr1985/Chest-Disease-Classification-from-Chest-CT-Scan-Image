@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/35c4173597cd4c6b8605cf660bcc38be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35c4173597cd4c6b8605cf660bcc38be
+run_name: sneaky-cod-800
+run_uuid: 35c4173597cd4c6b8605cf660bcc38be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726251567766
+status: 1
+tags: []
+user_id: waelr
