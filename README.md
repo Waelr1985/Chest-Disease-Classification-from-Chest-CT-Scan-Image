@@ -53,7 +53,9 @@ with mlflow.start_run():
   mlflow.log_metric('metric name', 1)
 
 # Mlflow dagshub connection uri
-MLFLOW_TRACKING_URI=https://dagshub.com/waelr1985/mlflow-experiment-demo.mlflow \
-MLFLOW_TRACKING_USERNAME=waelr1985 \
-MLFLOW_TRACKING_PASSWORD=a2b38bb958d1990c4d33a3d836eaa4568303108d \
+export MLFLOW_TRACKING_URI="https://dagshub.com/waelr1985/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow"
+
+export MLFLOW_TRACKING_USERNAME= "waelr1985"
+
+export MLFLOW_TRACKING_PASSWORD="e0e408a6aefb03f723c0cdcc8fabbad6434893ec"
 python script.py
